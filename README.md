@@ -1,6 +1,6 @@
-• Artificial-Intelligence
+• AI project
 -
-The first two projects are Pac-Man projects from Berkeley University. 
+The first two projects are Pac-Man projects. 
 
 ► Project 1: https://inst.eecs.berkeley.edu/~cs188/sp19/project1.html
 
